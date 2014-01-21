@@ -6,10 +6,45 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		7D7A8815188EFE560091823C /* 246076main_E60-6286_full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "246076main_E60-6286_full.jpg"; sourceTree = "<group>"; };
+		7D7A8816188EFE560091823C /* awesome-globe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "awesome-globe.jpg"; sourceTree = "<group>"; };
+		7D7A8817188EFE560091823C /* BillOfRights.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = BillOfRights.html; sourceTree = "<group>"; };
+		7D7A8818188EFE560091823C /* EnglishConstitution.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = EnglishConstitution.html; sourceTree = "<group>"; };
+		7D7A8819188EFE560091823C /* FederalistPapers.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = FederalistPapers.html; sourceTree = "<group>"; };
+		7D7A881A188EFE560091823C /* ISS016-E-010312.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ISS016-E-010312.jpg"; sourceTree = "<group>"; };
+		7D7A881B188EFE560091823C /* ISS030-E-6082.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ISS030-E-6082.jpg"; sourceTree = "<group>"; };
+		7D7A881C188EFE560091823C /* MagnaCarta.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = MagnaCarta.html; sourceTree = "<group>"; };
+		7D7A881D188EFE560091823C /* NMConstitution.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = NMConstitution.pdf; sourceTree = "<group>"; };
+		7D7A881E188EFE560091823C /* OhioConstitution.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = OhioConstitution.pdf; sourceTree = "<group>"; };
+		7D7A881F188EFE560091823C /* PortugalConstitution.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = PortugalConstitution.html; sourceTree = "<group>"; };
+		7D7A8820188EFE560091823C /* Readme-images */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Readme-images"; sourceTree = "<group>"; };
+		7D7A8821188EFE560091823C /* Readme-text */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Readme-text"; sourceTree = "<group>"; };
+		7D7A8822188EFE560091823C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		7D7A8823188EFE560091823C /* USConstitution.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = USConstitution.html; sourceTree = "<group>"; };
+		7D7A8824188EFE560091823C /* USDeclIndependence.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = USDeclIndependence.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		7D7A880E188EFDAD0091823C = {
 			isa = PBXGroup;
 			children = (
+				7D7A8815188EFE560091823C /* 246076main_E60-6286_full.jpg */,
+				7D7A8816188EFE560091823C /* awesome-globe.jpg */,
+				7D7A8817188EFE560091823C /* BillOfRights.html */,
+				7D7A8818188EFE560091823C /* EnglishConstitution.html */,
+				7D7A8819188EFE560091823C /* FederalistPapers.html */,
+				7D7A881A188EFE560091823C /* ISS016-E-010312.jpg */,
+				7D7A881B188EFE560091823C /* ISS030-E-6082.jpg */,
+				7D7A881C188EFE560091823C /* MagnaCarta.html */,
+				7D7A881D188EFE560091823C /* NMConstitution.pdf */,
+				7D7A881E188EFE560091823C /* OhioConstitution.pdf */,
+				7D7A881F188EFE560091823C /* PortugalConstitution.html */,
+				7D7A8820188EFE560091823C /* Readme-images */,
+				7D7A8821188EFE560091823C /* Readme-text */,
+				7D7A8822188EFE560091823C /* README.md */,
+				7D7A8823188EFE560091823C /* USConstitution.html */,
+				7D7A8824188EFE560091823C /* USDeclIndependence.html */,
 			);
 			sourceTree = "<group>";
 		};
